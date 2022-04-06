@@ -14,3 +14,4 @@ scikit-learn/surprise models which use NLP techniques to suggest movies for the 
 based on similar users and for queries specific to genre, user Similarity, movie 
 Similarity, rating, popularity, or hybrid query. 
 - Recommender System using Deep Neural Network maybe used if I have time.
+#
