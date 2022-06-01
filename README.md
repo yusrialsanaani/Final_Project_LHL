@@ -39,6 +39,8 @@ Similarity, rating, popularity, or hybrid query.
 
 ## Content Based Recommender
 
+Content Based RS filter out movies based on movies genres and rating data using KNN and Cosine similarity. The TfiDF and BOW were used to represent the text using vectors.
+
 ![image](https://user-images.githubusercontent.com/89004966/171425391-0255a93d-c3c7-4a66-aaa5-da02a02146da.png)
 
 
@@ -46,7 +48,7 @@ Similarity, rating, popularity, or hybrid query.
 
 
 ## Collaborative Based Recommender
-On other hand, Collaborative RS filter out movies that a user might like based on ratings of similar users.
+Collaborative RS filter out movies that a user might like based on ratings of similar users.
 For example, if user 1 and 2 watched the same A and B movies, user 1 might like movie c as well.
 SVD has been used to predict the ratings based on the similarity of users-movies interactions
 
