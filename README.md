@@ -14,11 +14,22 @@ scikit-learn/surprise models which use NLP techniques to suggest movies for the 
 based on similar users and for queries specific to genre, user Similarity, movie 
 Similarity, rating, popularity, or hybrid query. 
 
-## Recommender System Framework
+## Recommender System RS Framework
 
 **Dataset:** MovieLens 25M Dataset (https://grouplens.org/datasets/movielens/25m/)
 
 **EDA & Preprocessing:** A comprehensive exploratory data analysis and data preprocessing techniques have been perfmed before injecting the data into recommender system.
+
+**Types of RSs:**
+- Content Based RS based on **Movies Genres**
+- Collaborative RS based on **Users interactions**
+- Hybrid RS that combines **user ratings** and **content of the movies**
+
+**Evaluation Metrics:** Root Mean Squared Error (RMSE) | Mean Absolute Error (MAE) | Hit Rate (HR) | Novelty | Coverage | Diversity
+
+
+
+
 
 
 ![image](https://user-images.githubusercontent.com/89004966/171425184-0936e244-6167-4534-9048-78ad6191c3f6.png)
