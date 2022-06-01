@@ -27,9 +27,11 @@ Similarity, rating, popularity, or hybrid query.
 
 **Evaluation Metrics:** Root Mean Squared Error (RMSE) | Mean Absolute Error (MAE) | Hit Rate (HR) | Novelty | Coverage | Diversity
 
+**Software & Tools:** Python version 3.7 | Google Cobal | Jupyter notebook
 
+**Libraries used:** scikit-learn | re | nltk | pandas | numpy | seaborn | plotly | matplot| surprise
 
-
+**The algorithms used are:** K-nearest neighbour (KNN) | Cosine Similarity | SVD
 
 
 ![image](https://user-images.githubusercontent.com/89004966/171425184-0936e244-6167-4534-9048-78ad6191c3f6.png)
