@@ -25,3 +25,28 @@ Similarity, rating, popularity, or hybrid query.
 
 
 ![image](https://user-images.githubusercontent.com/89004966/171425449-e08b33dd-e018-4a8a-9237-1fcf519880d0.png)
+
+
+## Collaborative Based Recommender
+On other hand, Collaborative RS filter out movies that a user might like based on ratings of similar users.
+For example, if user 1 and 2 watched the same A and B movies, user 1 might like movie c as well.
+SVD has been used to predict the ratings based on the similarity of users-movies interactions
+
+
+![image](https://user-images.githubusercontent.com/89004966/171425674-58a57339-34c7-4479-b260-825a7b993276.png)
+
+
+## Hybrid Recommender
+
+![image](https://user-images.githubusercontent.com/89004966/171425810-3913ab8d-1504-4ade-abc6-064a87342c0f.png)
+
+![image](https://user-images.githubusercontent.com/89004966/171425872-97bf53f1-7195-454f-8336-cccbd757727e.png)
+
+
+## Evaluation Metrics
+
+![image](https://user-images.githubusercontent.com/89004966/171425986-e1fb3c4d-a2b3-4489-a0d1-76f9bb0da45b.png)
+
+
+
+
