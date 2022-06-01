@@ -47,6 +47,10 @@ SVD has been used to predict the ratings based on the similarity of users-movies
 
 ![image](https://user-images.githubusercontent.com/89004966/171425986-e1fb3c4d-a2b3-4489-a0d1-76f9bb0da45b.png)
 
+![image](https://user-images.githubusercontent.com/89004966/171426105-19ec368f-89f9-4452-b89f-b5814dc72d6d.png)
+
+![image](https://user-images.githubusercontent.com/89004966/171426132-e066a769-d035-4c8f-b4ac-0be3c404ff39.png)
+
 
 
 
