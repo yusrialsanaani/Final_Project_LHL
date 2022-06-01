@@ -1,11 +1,11 @@
-# Final_Project_LHL
-Project Title: 
-Movie Recommendation
+# Hybrid Movie Recommender System - Final Project LHL
 
-Goal: 
-Predicting movies for people based on their interests.
+## Recommender Systems
 
-Project description: 
+Recommender Systems are a type of information filtering system as they improve the quality of search results and provides items that are more relevant to the search item or are related to the search history of the user.
+In today’s technology driven world, recommender systems are socially and economically critical for ensuring that individuals can make appropriate choices surrounding the content they engage with on a daily basis.
+
+## Project description
 - Developing Knowledge-based, Content-based, Collaborative Recommender system,
 and  hybrid movie recommender system that combines user ratings and content of 
 the movies  using MovieLens dataset with 25,000095 movie ratings. 
@@ -13,5 +13,9 @@ the movies  using MovieLens dataset with 25,000095 movie ratings.
 scikit-learn/surprise models which use NLP techniques to suggest movies for the users 
 based on similar users and for queries specific to genre, user Similarity, movie 
 Similarity, rating, popularity, or hybrid query. 
-- Recommender System using Deep Neural Network maybe used if I have time.
-#
+
+## Recommender System Framework
+
+![image](https://user-images.githubusercontent.com/89004966/171425184-0936e244-6167-4534-9048-78ad6191c3f6.png)
+
+
