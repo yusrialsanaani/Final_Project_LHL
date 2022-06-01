@@ -16,6 +16,11 @@ Similarity, rating, popularity, or hybrid query.
 
 ## Recommender System Framework
 
+**Dataset:** MovieLens 25M Dataset (https://grouplens.org/datasets/movielens/25m/)
+
+**EDA & Preprocessing:** A comprehensive exploratory data analysis and data preprocessing techniques have been perfmed before injecting the data into recommender system.
+
+
 ![image](https://user-images.githubusercontent.com/89004966/171425184-0936e244-6167-4534-9048-78ad6191c3f6.png)
 
 
