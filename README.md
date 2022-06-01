@@ -19,3 +19,9 @@ Similarity, rating, popularity, or hybrid query.
 ![image](https://user-images.githubusercontent.com/89004966/171425184-0936e244-6167-4534-9048-78ad6191c3f6.png)
 
 
+## Content Based Recommender
+
+![image](https://user-images.githubusercontent.com/89004966/171425391-0255a93d-c3c7-4a66-aaa5-da02a02146da.png)
+
+
+![image](https://user-images.githubusercontent.com/89004966/171425449-e08b33dd-e018-4a8a-9237-1fcf519880d0.png)
